@@ -1,2 +1,3 @@
-# Mathematical-Modeling-Beauty-Competition-C-Question
-Mathematical Modeling Beauty Competition C Question
+# Mathematical Contest In Modeling
+针对势能在网球比赛中的影响问题，我们的项目旨在探索势能在比赛中的作用，并通过建立数学模型和数据分析解决相关问题。我们采用马尔科夫链模型模拟比赛情况，建立性能量化体系评估球员表现，并通过神经网络模型调整momentum量化体系，验证其在比赛中的重要性。利用随机森林预测模型和统计方法确定比赛波动因素，并提供实用的教练建议报告。通过这些措施，我们旨在为网球教练和运动员提供优化比赛策略的指导。
+
